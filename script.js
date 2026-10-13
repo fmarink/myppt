@@ -7,7 +7,7 @@
    email:    la casilla que recibirá los mensajes.
    mensaje:  texto con el que se abre el chat de WhatsApp. */
 const CONTACTO = {
-  whatsapp: "56900000000",
+  whatsapp: "56984690047",
   email: "hola@ejemplo.com",
   mensaje: "Hola, quiero conversar sobre una presentación.",
 };
